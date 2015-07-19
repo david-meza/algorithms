@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/plus-minus
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 gets
 numbers = gets.chomp.split(" ").map {|num| num.to_i }
